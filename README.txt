@@ -1,0 +1,1 @@
+Remplacez les blocs 'Photo' par vos images dans le prochain pack.

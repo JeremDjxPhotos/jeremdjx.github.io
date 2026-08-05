@@ -1,0 +1,1 @@
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px}.card{background:#222;height:220px;border:1px solid #c8a45a;color:#fff;display:flex;align-items:center;justify-content:center}.filters{margin:20px}
