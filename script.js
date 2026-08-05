@@ -1,1 +1,1 @@
-console.log('JeremDjxPhotos');
+console.log('Pack 1 JeremDjxPhotos chargé');

@@ -1,1 +1,5 @@
-body{background:#111;color:#fff;font-family:Arial}header{padding:20px}a{color:gold;margin:8px}.hero{padding:80px;text-align:center}
+body{margin:0;background:#111;color:#fff;font-family:Arial}
+header{display:flex;justify-content:space-between;padding:20px;position:sticky;top:0;background:#111}
+a{color:#c8a45a;text-decoration:none;margin:0 10px}
+.hero{height:90vh;display:flex;flex-direction:column;justify-content:center;align-items:center;text-align:center}
+.btn{border:1px solid #c8a45a;padding:12px 24px;border-radius:30px}
